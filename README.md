@@ -1,1 +1,1 @@
-# Materi Pemrograman Semester 2
+Simple Plane Ticket Console App
