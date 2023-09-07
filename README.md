@@ -1,3 +1,1 @@
-# Materi Pemrograman Semester 2
-- Console App
-- OOP
+Program Console Tiket Transportasi
