@@ -1,3 +1,3 @@
-# Materi Pemrograman Semester 2
-- Console App
-- OOP
+OOP Encapsulation
+- Program.cs
+- Weapon.cs
