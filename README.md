@@ -1,1 +1,4 @@
-# Materi Pemrograman Semester 2
+OOP Inheritance
+- Program.cs
+- Sword.cs
+- Weapon.cs
