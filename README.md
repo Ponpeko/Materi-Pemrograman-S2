@@ -1,3 +1,4 @@
-# Materi Pemrograman Semester 2
-- Console App
-- OOP
+OOP Abstraction
+- Program.cs
+- Hero.cs
+- Kaja.cs
