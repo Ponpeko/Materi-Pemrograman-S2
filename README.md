@@ -1,3 +1,5 @@
-# Materi Pemrograman Semester 2
-- Console App
-- OOP
+OOP Polymorphism
+- Program.cs
+- Hero.cs
+- Kaja.cs
+- Yin.cs
